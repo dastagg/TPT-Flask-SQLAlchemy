@@ -1,4 +1,4 @@
-# Talk Python Training - Flask w/SQLAchemy 
+# Talk Python Training - Flask w/SQLAlchemy 
 
 ## Flask w/SQLAlchemy
 
