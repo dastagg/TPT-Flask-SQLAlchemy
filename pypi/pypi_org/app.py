@@ -21,6 +21,8 @@ def register_blueprints():
     app.register_blueprint(package_views.blueprint)
 
 
+# account stuff will go here
+
 if __name__ == '__main__':
     main()
 else:
